@@ -1,6 +1,6 @@
 ### Yo, I'm Alex.
 
-[![Discord](https://discord.com/api/guilds/793143215057272892/widget.png)](https://discord.gg/SzAddKX) [<img alt = "Website" src = "https://img.shields.io/badge/-Website-FF0000"/>](https://www.chillbot.me)  
+[![Discord](https://discord.com/api/guilds/793143215057272892/widget.png)](https://discord.gg/MYMAW3Ff53) [<img alt = "Website" src = "https://img.shields.io/badge/-Website-FF0000"/>](https://www.chillbot.me)  
 
 
 
